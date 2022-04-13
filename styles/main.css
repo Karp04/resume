@@ -8,6 +8,7 @@
   }
   #kvv{
       color: darkblue;
+      text-align: center;
 }
 img{
     width: 200px;
@@ -15,4 +16,7 @@ img{
 }
 #tech{
     background: lightsalmon;
+}
+.iconka{
+    width: 16px;
 }
