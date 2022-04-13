@@ -1,0 +1,16 @@
+#list{
+    background: #659e68;
+    color: white;
+  }
+
+.list{
+  border:2px solid orange;
+    background: hwb(140 31% 58%);
+  }
+
+  #kvv{
+    color:  #9fc335;
+    background: hsl(137, 16%, 23%);
+    border:2px solid orange;
+       
+    }
