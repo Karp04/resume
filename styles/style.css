@@ -1,16 +1,54 @@
-#list{
-    background: #659e68;
-    color: white;
-  }
 
-.list{
-  border:2px solid orange;
-    background: hwb(140 31% 58%);
-  }
+.cv-title{
+  border-bottom: 3px solid #264974;
+  color: #264974;
 
-  #kvv{
-    color:  #9fc335;
-    background: hsl(137, 16%, 23%);
-    border:2px solid orange;
-       
-    }
+}
+
+.tech{
+  margin: 30px;
+}
+
+.cv-full-name{
+  color: #264974;
+  font: caption;
+  font-size: 50px; 
+  margin-left: 10px;
+   
+}
+.pic{
+  border-radius: 20%;
+  box-shadow: #264974 20px;
+  margin-left:30px;
+  padding: 0px;
+  width: 300px;
+}
+.left{
+  position: absolute; left: 0; top: 0; width: 35%; height: 100%;
+  
+}
+.right{
+  position: absolute; 
+  right: 0; 
+  top: 0; 
+  width: 65%; 
+  height: 100%;
+  margin-left: 50px;
+} 
+
+.tech{
+  columns: 3;
+}
+.cv-decor-block{
+  height: 51px;
+  width: 100%;  
+  background-color: #264974;
+  margin-top: 0px;
+     
+}
+.cv-decor-block2{
+  height: 45px;
+  width: 50%;  
+  background-color: #264974;
+     
+}

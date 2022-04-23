@@ -6,7 +6,7 @@
     background: lightcyan;
   
   }
-  #kvv{
+  .kvv{
       color: darkblue;
       text-align: center;
 }
@@ -19,4 +19,8 @@ img{
 }
 .iconka{
     width: 16px;
+}
+.box {
+    width: 100%;
+    height: 100%;
 }
